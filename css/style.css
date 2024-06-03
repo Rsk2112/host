@@ -1246,9 +1246,7 @@ hr{
     .container{
         max-width: 90%;
     }
-    .navbar{
-        /* display: none; */
-    }
+    
     .navbar a{
         padding: 2.5rem 0.75rem;
     }
